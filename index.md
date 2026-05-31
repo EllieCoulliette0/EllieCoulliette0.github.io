@@ -4,5 +4,5 @@ Neuroscience major at Agnes Scott College
 
 * coulliette200@agnesscott.edu
 * From Chattanooga, TN and live in Atlanta, GA 
-! [Ellie Profile photo](img/IMG_0940.png)
+  ![Ellie Profile photo](img/IMG_0940.png)
 Hi, I'm Ellie, a Neuroscience major and pre-med student at Agnes Scott College, passionate about raising awareness of environmental challenges and finding data-driven solutions to tackle them. Outside of the classroom, I love hiking, and my most memorable adventure has been along the beautiful seaside of Ireland!
