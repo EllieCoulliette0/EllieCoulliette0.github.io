@@ -10,5 +10,4 @@ Neuroscience major at Agnes Scott College
   alt="Ellie Profile photo" 
   width="25%">
 
-
-Hi, I'm Ellie, a Neuroscience major and pre-med student at Agnes Scott College, passionate about raising awareness of environmental challenges and finding data-driven solutions to tackle them. Outside of the classroom, I love hiking, and my most memorable adventure has been along the beautiful seaside of Ireland!
+https://github.com/EllieCoulliette0/EllieCoulliette0.github.io/blob/main/Notebook_Combined_Single_City_Pipeline.ipynb
